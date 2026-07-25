@@ -1,0 +1,6 @@
+a=int(input("enter first number:"))
+b=float(input("enter second number:"))
+c=str(input("enter third number:"))
+print(type(a))
+print(type(b))
+print(type(c))
